@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    align-items: center;
+}
+
+.counter{
+    display: inline-flex;
+    align-items: center;
+    border: 3px solid violet;
+    margin: 20px auto;
+}
+.counter button{
+    font-size: 30px;
+    width: 50px;
+    margin: 10px;
+}

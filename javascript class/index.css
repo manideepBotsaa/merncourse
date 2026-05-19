@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    display: inline-block;
+}
+.timer{
+   background-color: burlywood;
+   display: inline-flex;
+   font-size: 20px;
+   padding: 10px;
+   margin: 40px auto;
+   border-radius: 50%;
+    
+}

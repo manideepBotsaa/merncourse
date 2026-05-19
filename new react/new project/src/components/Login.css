@@ -1,0 +1,25 @@
+
+
+
+.login{
+    display: inline-flex;
+    flex-direction: column;
+    margin: 40px auto;
+    border: 3px solid;
+    padding: 10px;
+    box-shadow: 5px 5px orange;
+    font-size:20px;
+    
+
+}
+.login form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:10px;
+
+}
+
+.login button{
+    width: 100px;
+
+}
